@@ -6,6 +6,7 @@ evens.forEach( even => {
 
 evens.forEach((even, index, array) => {
   debugger
+  
   console.log(`${even} is not odd!`);
 })
 
